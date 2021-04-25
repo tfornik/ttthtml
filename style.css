@@ -69,8 +69,9 @@ body {
 #in12 {
 	background-color: grey;
 	color: black;
-	border: 3px dotted black;
+	border: 3px dashed black;
 	border-radius: 50px;
+	transition: 0.3s;
 	padding: 2px;
 	margin: 2px;
 	width: 150px;
